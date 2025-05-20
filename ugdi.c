@@ -30,6 +30,7 @@ int main() {
 			break;
 	}
 	printf("Случайное число равно: %d\n", r); // читы
+	printd("CHEAT MADE IN CHINA. SOCIAL CHINA\n")
 	do {
 		printf("введите свои догадки:");
 		int dog;

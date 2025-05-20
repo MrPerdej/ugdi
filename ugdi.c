@@ -7,6 +7,7 @@ int r;
 int main() {
 	srand(time(NULL));
 	char vibor;
+	printf("MADE IN CHINA!");
 	printf("1.лёгкая (от 0 до 10)\n");
 	printf("2.средняя(от 0 до 100)\n");
 	printf("3.сложная(от 0 до 1000)\n");
@@ -30,7 +31,7 @@ int main() {
 			break;
 	}
 	printf("Случайное число равно: %d\n", r); // 秘籍
-	printd("CHEAT MADE IN CHINA. 精實華人黨\n");
+	printf("CHEAT MADE IN CHINA. 精實華人黨\n");
 	do {
 		printf("введите свои догадки:");
 		int dog;
@@ -43,6 +44,7 @@ int main() {
 		}
 		else {
 			printf("ты не угадал, попробуй еще\n");
+			printf("黨對你感到不滿");
 		}
 	} while(1);
 	

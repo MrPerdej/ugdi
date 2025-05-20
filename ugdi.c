@@ -30,7 +30,7 @@ int main() {
 			break;
 	}
 	printf("Случайное число равно: %d\n", r); // 秘籍
-	printd("CHEAT MADE IN CHINA. SOCIAL CHINA\n")
+	printd("CHEAT MADE IN CHINA. 精實華人黨\n")
 	do {
 		printf("введите свои догадки:");
 		int dog;

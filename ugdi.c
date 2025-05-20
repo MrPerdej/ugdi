@@ -8,10 +8,10 @@ int main() {
 	srand(time(NULL));
 	char vibor;
 	printf("MADE IN CHINA!");
-	printf("1.лёгкая (от 0 до 10)\n");
-	printf("2.средняя(от 0 до 100)\n");
-	printf("3.сложная(от 0 до 1000)\n");
-	printf("выберите сложность:");
+	printf("1.簡單的 (от 0 до 10)\n");
+	printf("2.平均的 (от 0 до 100)\n");
+	printf("3.複雜的(от 0 до 1000)\n");
+	printf("選擇難度:");
 	vibor = getchar();
 	switch(vibor) {
 		case '1':

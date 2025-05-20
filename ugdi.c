@@ -29,7 +29,7 @@ int main() {
 			exit(0);
 			break;
 	}
-	printf("Случайное число равно: %d\n", r); // читы
+	printf("Случайное число равно: %d\n", r); // 秘籍
 	printd("CHEAT MADE IN CHINA. SOCIAL CHINA\n")
 	do {
 		printf("введите свои догадки:");
